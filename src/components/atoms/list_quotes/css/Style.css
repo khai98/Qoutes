@@ -1,0 +1,122 @@
+* {
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+*, :after, :before {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+
+*, :after, :before {
+    box-sizing: inherit;
+}
+
+.quote-tile .quote-details {
+    border-top: 1px solid #d8e5ef;
+    background: #fffcea;
+}
+
+.quote-details {
+    margin-bottom: 30px;
+}
+
+.leg-table .leg-route {
+    padding: 10px 15px;
+    color: #373848;
+    font-size: 15px;
+    line-height: 1.2;
+    background: #fff6d9;
+}
+
+
+
+.leg-table .leg-fees-table {
+    width: 100%;
+}
+table {
+    border-collapse: collapse;
+    background-color: transparent;
+}
+table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    border-collapse: collapse;
+    background-color: transparent;
+}
+
+
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.leg-table .subtotal {
+    text-align: right;
+    display: block;
+    font-size: 13px;
+    border-top: 1px solid #d8e5ef;
+    font-weight: 700;
+    height: 40px;
+    line-height: 40px;
+}
+
+.quote-tile .carbon-emission {
+    font-size: 12px;
+    margin-left: 14px;
+    margin-bottom: 5px;
+}
+.remarks-and-bonds {
+    background: #fffcea;
+    border-top: 1px solid #d8e5ef;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+}
+.quote-tile .grand-total {
+    background: #fff6d9;
+    padding: 10px 15px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+
+.leg-table .leg-fees-table {
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: transparent;
+}
+
+.subtotal-label{
+    margin-right: 85px
+}
+.subtotal-amount {
+    margin-right: 60px
+}
